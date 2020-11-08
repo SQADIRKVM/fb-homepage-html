@@ -1,0 +1,164 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 89px;
+}
+body{
+    margin: 0;
+    font-family:Helvetica Neue,Helvetica,Arial, sans-serif ;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color: white;
+    font-size: 41px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue,Helvetica,Arial, sans-serif;
+    margin-left: 170px;
+}
+.login-label{
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+}
+.login-controls{
+    margin-left: 115px;
+}
+.login{
+    padding-top: 10px;
+}
+.forgotten{
+    color: #9cb4d8;
+    text-decoration: none;
+    font-size: 11px;
+}
+.sub-btn{
+    background: #4267b2;
+    color: white;
+    border-color: #29487d;
+    height: 20px;
+    border-style: solid;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background: rgb(77, 119, 196);
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+}
+.right-section{
+    width: 39%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white,#d3d8e8);
+    width: 100%;
+    height: 540px;
+}
+.fb-logo{
+    width: 581px;
+    float: left;
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+}
+.registration-form{
+    width: 180px;
+    border-radius: 5px;
+    font-size: 18px;
+    border-color:rgb(189, 199, 216);
+    outline-color: rgb(77, 144, 254);
+    background: white;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 6px;
+}
+.create-account{
+    color: #333;
+    font-size: 36px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+.h3-tag{
+    padding-left: 4px;
+    font-family: 'Freight Sans', Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    line-height: 4px;
+
+}
+.date-of-birth{
+    font-size: 16px;
+    padding-left: 7px;
+    color: #90949c;
+    font-weight: bold;
+}
+.day{
+    border: 1px solid #ccd0d5;
+    font-size: 13px;
+    height: 30px;
+    padding: 5px;
+    width: 56px;
+    margin-left: 7px;
+}
+.month{
+    border: 1px solid #ccd0d5;
+    font-size: 13px;
+    height: 30px;
+    padding: 5px;
+    margin-left: -3px;
+}
+.year{
+    border: 1px solid #ccd0d5;
+    font-size: 13px;
+    height: 30px;
+    padding: 5px;
+    margin-left: -3px;
+}
+.gender-{
+    font-size: 16px;
+    padding-left: 7px;
+    color: #90949c;
+    font-weight: bold;
+}
+.para-last{
+    color: #777;
+    font-size: 11px;
+    width: 316px;
+    padding-left: 10px;
+}
+.terms{
+    text-decoration: none;
+    color: #29487d;
+}
+.data-policy{
+    text-decoration: none;
+    color: #29487d;
+}
+.cookies{
+    text-decoration: none;
+    color: #29487d;
+}
+.sign-up{
+    background:  linear-gradient(#67ae55, #578843);
+    box-shadow: inset 0 1px 1px #a4e388;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    font-size: 19px;
+    color: white;
+    border-radius: 8px;
+    width: 185px;
+    padding: 10px;
+    margin-left: 10px;
+}
